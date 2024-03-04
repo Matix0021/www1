@@ -4,6 +4,6 @@ body{
 div{
     border: solid;
     width: 200px;
-    height: 200px;
+    font-size: 4em;
     background-color: blue;
 }
